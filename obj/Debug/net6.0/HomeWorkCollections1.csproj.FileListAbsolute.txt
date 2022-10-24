@@ -1,0 +1,15 @@
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\bin\Debug\net6.0\HomeWorkCollections1.exe
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\bin\Debug\net6.0\HomeWorkCollections1.deps.json
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\bin\Debug\net6.0\HomeWorkCollections1.runtimeconfig.json
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\bin\Debug\net6.0\HomeWorkCollections1.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\bin\Debug\net6.0\HomeWorkCollections1.pdb
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\refint\HomeWorkCollections1.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.pdb
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\HomeWorkCollections1.genruntimeconfig.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkCollections1\obj\Debug\net6.0\ref\HomeWorkCollections1.dll
