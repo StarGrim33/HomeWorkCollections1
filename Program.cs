@@ -7,7 +7,7 @@
             Dictionary<string, string> words = new Dictionary<string, string>(6);
             bool isProgramOn = true;
 
-            AddDictionary(words);
+            FillDictionary(words);
 
             Console.Write("Для выхода из программы напишите Escape\nВведите слово: ");
             Console.SetCursorPosition(0, 2);
@@ -31,7 +31,7 @@
             }
         }
 
-        static void AddDictionary(Dictionary<string,string> words)
+        static void FillDictionary(Dictionary<string,string> words)
         {
             words.Add("Привет", "И тебе привет!");
             words.Add("Земля", "Небо");
